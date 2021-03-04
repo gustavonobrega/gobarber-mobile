@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="src/assets/logo.svg" alt="GoBarber">
+    <img src="assets/logo.svg" alt="GoBarber">
   <br>
   <br>
     GoBarber Mobile
